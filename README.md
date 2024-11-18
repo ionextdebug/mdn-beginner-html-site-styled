@@ -1,6 +1,6 @@
 # About this repository
 
-This repository use as base a simple HTML page from MDN and a tutorial from (TechWorld with Nana)[https://www.youtube.com/watch?v=q8OleYuqntY] to lab the Nginx.
+This repository use as base a simple HTML page from MDN and a tutorial from [TechWorld with Nana](https://www.youtube.com/watch?v=q8OleYuqntY) to lab the Nginx.
 
 ## beginner-html-site-styled
 A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
